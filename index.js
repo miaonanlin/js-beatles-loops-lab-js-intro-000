@@ -8,6 +8,7 @@ function iLoveTheBeatles(num){
   return strings;
 }
 
+
 function johnLennonFacts(facta){
   var newArray =[];
   var i = 0;
