@@ -9,11 +9,11 @@ function iLoveTheBeatles(num){
 }
 
 
-function johnLennonFacts(facta){
+function johnLennonFacts(facts){
   var newArray =[];
   var i = 0;
   while (facts.length > i ){
-    newArray.push(`${facta[i]}` + '!!!');
+    newArray.push(`${facts[i]}` + '!!!');
     i++;
   }
   return newArray;
